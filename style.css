@@ -142,6 +142,11 @@ nav:hover ul{
 	padding: 2%;
 	float: left;
 }
+
+.one-third-port img{
+	border-radius: 20% 10%;
+}
+
 .one-third-port img:hover{
 	opacity: .6;
 }
