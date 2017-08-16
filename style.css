@@ -133,6 +133,7 @@ nav:hover ul{
 	margin: 4%;
 }
 #mypic{
+	border-radius: 50%;
 	width:125%;
 	height: 135%;
 }
